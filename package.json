@@ -9,6 +9,7 @@
   "author": "AsyncBanana",
   "license": "MIT",
   "dependencies": {
+    "add-gitignore": "^1.1.1",
     "body-parser": "^1.19.2",
     "express": "^4.17.3",
     "mysql": "^2.18.1",
